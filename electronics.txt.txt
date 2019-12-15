@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 1.offer in alexa
 2.offer in ringo
 
+=======
+1.offer in alexa
+2.offer in ringo
+
+>>>>>>> 9db72401387953ad6616e3bdee04a66a9ddeed54
